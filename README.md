@@ -16,14 +16,14 @@ This repository contains comprehensive API documentation for EternalClient and a
 
 To use this system with Claude, you need:
 
-1. **Claude Desktop App** with MCP (Model Context Protocol) support
+1. **Claude Code CLI** tool with MCP (Model Context Protocol) support
 2. **Filesystem MCP Server** installed and configured
 3. **EternalClient API** files at your specified path
 4. **Java JDK** and **Gradle** for script compilation
 
 ### Installing Filesystem MCP
 
-Add the following to your Claude Desktop configuration:
+Add the following to your Claude Code configuration:
 
 ```json
 {
@@ -106,7 +106,7 @@ Claude automatically:
 
 2. **Configure MCP**: Ensure the filesystem MCP server has access to your EternalClient API directory
 
-3. **Start Claude**: Open Claude Desktop with MCP enabled
+3. **Start Claude Code**: Run Claude Code CLI with MCP enabled
 
 4. **Request Script**: Ask Claude to create any EternalClient script, for example:
    ```
@@ -153,7 +153,7 @@ This documentation system is provided as-is for the EternalClient community. Ple
 ## 🔗 Links
 
 - [EternalClient Website](https://eternalclient.com)
-- [Claude Desktop](https://claude.ai/download)
+- [Claude Code CLI](https://github.com/anthropics/claude-code)
 - [MCP Documentation](https://modelcontextprotocol.io)
 
 ---
