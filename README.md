@@ -152,8 +152,9 @@ This documentation system is provided as-is for the EternalClient community. Ple
 
 ## 🔗 Links
 
-- [EternalClient Website](https://eternalclient.com)
+- [EternalClient Website](https://eternalclient.net)
 - [Claude Code CLI](https://github.com/anthropics/claude-code)
+- [Filesystem MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)
 - [MCP Documentation](https://modelcontextprotocol.io)
 
 ---
